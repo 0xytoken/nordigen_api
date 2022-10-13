@@ -1,0 +1,19 @@
+{
+    "id": "352e9517-dd7e-441c-ab22-dfcb4b139870",
+    "created": "2022-06-20T12:00:43.868126Z",
+    "redirect": "http://www.niklasmuegge.com",
+    "status": "LN",
+    "institution_id": "WISE_TRWIGB22",
+    "agreement": "557a9869-2ef9-4d30-b3c9-5250a1239370",
+    "reference": "ref_2",
+    "accounts": [
+        "62a6917b-d654-4bc7-920a-325eeb9400e1",
+        "747382e9-3d73-4700-aae0-ffd16ab3e077",
+        "f5c6ccff-b7c9-4207-ab6e-bfdbf9524fcb"
+    ],
+    "user_language": "EN",
+    "link": "https://ob.nordigen.com/psd2/start/352e9517-dd7e-441c-ab22-dfcb4b139870/WISE_TRWIGB22",
+    "ssn": null,
+    "account_selection": false,
+    "redirect_immediate": false
+}

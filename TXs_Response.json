@@ -1,0 +1,3277 @@
+[
+    {
+        "bookingDate": "2022-06-17",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 901.35 EUR Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-4.69",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0OTY4Nzg3Nzk=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-17",
+        "creditorAccount": {},
+        "creditorName": "Niklas Benjamin Muegge",
+        "currencyExchange": {
+            "exchangeRate": "37.1077",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+        "remittanceInformationUnstructured": "Moved To your THB account",
+        "transactionAmount": {
+            "   ": "-901.35",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0OTY4Nzg3Nzk="
+    },
+    {
+        "bookingDate": "2022-06-17",
+        "creditorName": "Niklas Benjamin Muegge",
+        "currencyExchange": {
+            "exchangeRate": "37.1077",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+        "remittanceInformationUnstructured": "Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-901.35",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0OTY4Nzg3Nzk="
+    },
+    {
+        "bookingDate": "2022-06-17",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 901.35 EUR Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-4.69",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0OTY4Nzg3Nzk=.FEE"
+    },
+    {
+        "additionalInformation": "Taschengeld",
+        "bookingDate": "2022-06-16",
+        "debtorAccount": {
+            "bban": "(BYLADEM1001) DE79120300001008619940"
+        },
+        "debtorName": "Nadine Mugge",
+        "entryReference": "Taschengeld",
+        "proprietaryBankTransactionCode": "TRANSFER",
+        "remittanceInformationUnstructured": "Received Nadine Mugge",
+        "transactionAmount": {
+            "amount": "100.00",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpUUkFOU0ZFUjo6NDM2MTcwNDc4"
+    },
+    {
+        "additionalInformation": "Unterhalt",
+        "bookingDate": "2022-06-16",
+        "debtorAccount": {
+            "bban": "(BYLADEM1001) DE79120300001008619940"
+        },
+        "debtorName": "NADINE MUEGGE",
+        "entryReference": "Unterhalt",
+        "proprietaryBankTransactionCode": "TRANSFER",
+        "remittanceInformationUnstructured": "Received NADINE MUEGGE",
+        "transactionAmount": {
+            "amount": "800.00",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpUUkFOU0ZFUjo6NDM2MjU4Mzc3"
+    },
+    {
+        "additionalInformation": "Thanks for dinner /df4dcf518b244efa",
+        "bookingDate": "2022-06-09",
+        "debtorAccount": {
+            "bban": "(NTSBDEB1XXX) DE67100110012624575623"
+        },
+        "debtorName": "Ige Egal",
+        "entryReference": "Thanks for dinner /df4dcf518b244efa",
+        "proprietaryBankTransactionCode": "TRANSFER",
+        "remittanceInformationUnstructured": "Received Ige Egal",
+        "transactionAmount": {
+            "amount": "6.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpUUkFOU0ZFUjo6NDMxOTYzMzc1"
+    },
+    {
+        "bookingDate": "2022-06-07",
+        "creditorAccount": {},
+        "creditorName": "Niklas Benjamin Muegge",
+        "currencyExchange": {
+            "exchangeRate": "36.7645",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+        "remittanceInformationUnstructured": "Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-430.69",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0ODUyMTA3NjY="
+    },
+    {
+        "bookingDate": "2022-06-07",
+        "creditorName": "Niklas Benjamin Muegge",
+        "currencyExchange": {
+            "exchangeRate": "36.7645",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+        "remittanceInformationUnstructured": "Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-430.69",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0ODUyMTA3NjY="
+    },
+    {
+        "bookingDate": "2022-06-07",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 430.69 EUR Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-2.24",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0ODUyMTA3NjY=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-07",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 430.69 EUR Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-2.24",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0ODUyMTA3NjY=.FEE"
+    },
+    {
+        "additionalInformation": "UNTERHALT LT. DUESSELDORFERTABELLE2",
+        "bookingDate": "2022-06-06",
+        "debtorAccount": {
+            "bban": "(BYLADEM1001) DE57120300001007558768"
+        },
+        "debtorName": "Carsten Mugge",
+        "entryReference": "UNTERHALT LT. DUESSELDORFERTABELLE2",
+        "proprietaryBankTransactionCode": "TRANSFER",
+        "remittanceInformationUnstructured": "Received Carsten Mugge",
+        "transactionAmount": {
+            "amount": "407.00",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpUUkFOU0ZFUjo6NDI5NzgwNTgz"
+    },
+    {
+        "bookingDate": "2022-06-05",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 7.34 EUR Spent Arabica Bangkok Emquatier",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjgzMTA4Mzk=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-05",
+        "creditorName": "7-11 Park Venture",
+        "currencyExchange": {
+            "exchangeRate": "36.7752",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent 7-11 Park Venture",
+        "transactionAmount": {
+            "amount": "-2.64",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjgzNDEyNTE="
+    },
+    {
+        "bookingDate": "2022-06-05",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 0.82 EUR Spent 7-11 Sukhumvit 11",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjg0Njk4OTc=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-05",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 7.34 EUR Spent Arabica Bangkok Emquatier",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjgzMTA4Mzk=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-05",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 2.64 EUR Spent 7-11 Park Venture",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjgzNDEyNTE=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-05",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 2.64 EUR Spent 7-11 Park Venture",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjgzNDEyNTE=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-05",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 0.82 EUR Spent 7-11 Sukhumvit 11",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjg0Njk4OTc=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-05",
+        "creditorName": "7-11 Sukhumvit 11",
+        "currencyExchange": {
+            "exchangeRate": "36.7752",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent 7-11 Sukhumvit 11",
+        "transactionAmount": {
+            "amount": "-0.82",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjg0Njk4OTc="
+    },
+    {
+        "bookingDate": "2022-06-05",
+        "creditorName": "Arabica Bangkok Emquatier",
+        "currencyExchange": {
+            "exchangeRate": "36.7752",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Arabica Bangkok Emquatier",
+        "transactionAmount": {
+            "amount": "-7.34",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjgzMTA4Mzk="
+    },
+    {
+        "bookingDate": "2022-06-04",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 17.46 EUR Spent The Beer Cap Bangkok",
+        "transactionAmount": {
+            "amount": "-0.09",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjc3OTkxNDI=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-04",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 4.35 EUR Spent Bellinee Talatchatuchak",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjc1NzM4NDk=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-04",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 8.32 EUR Spent The Beer Cap Bangkok",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjc4NTE3OTc=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-04",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 14.00 EUR Spent Pak",
+        "transactionAmount": {
+            "amount": "-0.07",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjc2ODUxMDE=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-04",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 2.09 EUR Spent 7-11 Thonglo Soi 7",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjc4OTAzMjE=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-04",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 14.00 EUR Spent Pak",
+        "transactionAmount": {
+            "amount": "-0.07",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjc2ODUxMDE=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-04",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 4.08 EUR Spent Simply Q",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjc2OTAwMzc=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-04",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 5.17 EUR Spent Pak",
+        "transactionAmount": {
+            "amount": "-0.03",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjc2ODU5NDM=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-04",
+        "creditorName": "Pak",
+        "currencyExchange": {
+            "exchangeRate": "36.7752",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Pak",
+        "transactionAmount": {
+            "amount": "-5.17",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjc2ODU5NDM="
+    },
+    {
+        "bookingDate": "2022-06-04",
+        "creditorName": "The Beer Cap Bangkok",
+        "currencyExchange": {
+            "exchangeRate": "36.7752",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent The Beer Cap Bangkok",
+        "transactionAmount": {
+            "amount": "-17.46",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjc3OTkxNDI="
+    },
+    {
+        "bookingDate": "2022-06-04",
+        "creditorName": "Simply Q",
+        "currencyExchange": {
+            "exchangeRate": "36.7752",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Simply Q",
+        "transactionAmount": {
+            "amount": "-4.08",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjc2OTAwMzc="
+    },
+    {
+        "bookingDate": "2022-06-04",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 8.32 EUR Spent The Beer Cap Bangkok",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjc4NTE3OTc=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-04",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 4.35 EUR Spent Bellinee Talatchatuchak",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjc1NzM4NDk=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-04",
+        "creditorName": "Bellinee Talatchatuchak",
+        "currencyExchange": {
+            "exchangeRate": "36.7752",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Bellinee Talatchatuchak",
+        "transactionAmount": {
+            "amount": "-4.35",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjc1NzM4NDk="
+    },
+    {
+        "bookingDate": "2022-06-04",
+        "creditorName": "The Beer Cap Bangkok",
+        "currencyExchange": {
+            "exchangeRate": "36.7752",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent The Beer Cap Bangkok",
+        "transactionAmount": {
+            "amount": "-8.32",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjc4NTE3OTc="
+    },
+    {
+        "bookingDate": "2022-06-04",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 4.08 EUR Spent Simply Q",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjc2OTAwMzc=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-04",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 17.46 EUR Spent The Beer Cap Bangkok",
+        "transactionAmount": {
+            "amount": "-0.09",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjc3OTkxNDI=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-04",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 2.09 EUR Spent 7-11 Thonglo Soi 7",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjc4OTAzMjE=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-04",
+        "creditorName": "7-11 Thonglo Soi 7",
+        "currencyExchange": {
+            "exchangeRate": "36.7752",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent 7-11 Thonglo Soi 7",
+        "transactionAmount": {
+            "amount": "-2.09",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjc4OTAzMjE="
+    },
+    {
+        "bookingDate": "2022-06-04",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 5.17 EUR Spent Pak",
+        "transactionAmount": {
+            "amount": "-0.03",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjc2ODU5NDM=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-04",
+        "creditorName": "Pak",
+        "currencyExchange": {
+            "exchangeRate": "36.7752",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Pak",
+        "transactionAmount": {
+            "amount": "-14.00",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjc2ODUxMDE="
+    },
+    {
+        "bookingDate": "2022-06-03",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 0.34 EUR Spent 7-11 Sukhumvit 33 Yaek2",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjY1NTQ0MTg=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-03",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 8.06 EUR Spent Aws Emea",
+        "transactionAmount": {
+            "amount": "-0.03",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjY1MDE3NTI=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-03",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 8.06 EUR Spent Aws Emea",
+        "transactionAmount": {
+            "amount": "-0.03",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjY1MDE3NTI=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-03",
+        "creditorName": "7-11 Sukhumvit 33 Yaek2",
+        "currencyExchange": {
+            "exchangeRate": "36.7752",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent 7-11 Sukhumvit 33 Yaek2",
+        "transactionAmount": {
+            "amount": "-1.47",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjcyOTIwNjA="
+    },
+    {
+        "bookingDate": "2022-06-03",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 1.47 EUR Spent 7-11 Sukhumvit 33 Yaek2",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjcyOTIwNjA=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-03",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 0.34 EUR Spent 7-11 Sukhumvit 33 Yaek2",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjY1NTQ0MTg=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-03",
+        "creditorName": "7-11 Sukhumvit 33 Yaek2",
+        "currencyExchange": {
+            "exchangeRate": "36.8232",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent 7-11 Sukhumvit 33 Yaek2",
+        "transactionAmount": {
+            "amount": "-0.34",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjY1NTQ0MTg="
+    },
+    {
+        "bookingDate": "2022-06-03",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 1.47 EUR Spent 7-11 Sukhumvit 33 Yaek2",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjcyOTIwNjA=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-03",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 4.21 EUR Spent Emquartier Co.,Ltd.",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjY1ODE4MzA=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-03",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 4.21 EUR Spent Emquartier Co.,Ltd.",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjY1ODE4MzA=.FEE"
+    },
+    {
+        "bookingDate": "2022-06-03",
+        "creditorName": "Aws Emea",
+        "currencyExchange": {
+            "exchangeRate": "1.07565",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "USD"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Aws Emea",
+        "transactionAmount": {
+            "amount": "-8.06",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjY1MDE3NTI="
+    },
+    {
+        "bookingDate": "2022-06-03",
+        "creditorName": "Emquartier Co.,Ltd.",
+        "currencyExchange": {
+            "exchangeRate": "36.8117",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Emquartier Co.,Ltd.",
+        "transactionAmount": {
+            "amount": "-4.21",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjY1ODE4MzA="
+    },
+    {
+        "bookingDate": "2022-05-31",
+        "creditorName": "7-11 Sukhumvit 33 Yaek2",
+        "currencyExchange": {
+            "exchangeRate": "36.8099",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent 7-11 Sukhumvit 33 Yaek2",
+        "transactionAmount": {
+            "amount": "-1.49",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjQ1MzEwOTE="
+    },
+    {
+        "bookingDate": "2022-05-31",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 1.49 EUR Spent 7-11 Sukhumvit 33 Yaek2",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjQ1MzEwOTE=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-31",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 12.27 EUR Spent Villa Market-Sukhumvit 33",
+        "transactionAmount": {
+            "amount": "-0.06",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjM5MzYyMDQ=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-31",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 12.27 EUR Spent Villa Market-Sukhumvit 33",
+        "transactionAmount": {
+            "amount": "-0.06",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjM5MzYyMDQ=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-31",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 1.49 EUR Spent 7-11 Sukhumvit 33 Yaek2",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjQ1MzEwOTE=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-31",
+        "creditorName": "Villa Market-Sukhumvit 33",
+        "currencyExchange": {
+            "exchangeRate": "36.742",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Villa Market-Sukhumvit 33",
+        "transactionAmount": {
+            "amount": "-12.27",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjM5MzYyMDQ="
+    },
+    {
+        "bookingDate": "2022-05-29",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 1.64 EUR Spent Tmg Emq Tk",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjI3MTUzOTA=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-29",
+        "creditorName": "Tmg Emq Tk",
+        "currencyExchange": {
+            "exchangeRate": "36.6173",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Tmg Emq Tk",
+        "transactionAmount": {
+            "amount": "-1.64",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjI3MTUzOTA="
+    },
+    {
+        "bookingDate": "2022-05-29",
+        "creditorName": "Ghl*Holey Artisan Bakery",
+        "currencyExchange": {
+            "exchangeRate": "36.6173",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Ghl*Holey Artisan Bakery",
+        "transactionAmount": {
+            "amount": "-14.20",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjI0NjM1NDc="
+    },
+    {
+        "bookingDate": "2022-05-29",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 14.20 EUR Spent Ghl*Holey Artisan Bakery",
+        "transactionAmount": {
+            "amount": "-0.07",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjI0NjM1NDc=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-29",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 10.77 EUR Spent Villa Market-Sukhumvit 33",
+        "transactionAmount": {
+            "amount": "-0.06",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjI3ODEzMzc=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-29",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 10.77 EUR Spent Villa Market-Sukhumvit 33",
+        "transactionAmount": {
+            "amount": "-0.06",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjI3ODEzMzc=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-29",
+        "creditorName": "Tlr-Emquatier",
+        "currencyExchange": {
+            "exchangeRate": "36.6173",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Tlr-Emquatier",
+        "transactionAmount": {
+            "amount": "-2.87",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjI1NzEyNTE="
+    },
+    {
+        "bookingDate": "2022-05-29",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 1.64 EUR Spent Tmg Emq Tk",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjI3MTUzOTA=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-29",
+        "creditorName": "Villa Market-Sukhumvit 33",
+        "currencyExchange": {
+            "exchangeRate": "36.6173",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Villa Market-Sukhumvit 33",
+        "transactionAmount": {
+            "amount": "-10.77",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjI3ODEzMzc="
+    },
+    {
+        "bookingDate": "2022-05-29",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 2.87 EUR Spent Tlr-Emquatier",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjI1NzEyNTE=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-29",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 2.87 EUR Spent Tlr-Emquatier",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjI1NzEyNTE=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-29",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 14.20 EUR Spent Ghl*Holey Artisan Bakery",
+        "transactionAmount": {
+            "amount": "-0.07",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjI0NjM1NDc=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-28",
+        "creditorName": "7-11 Sukhumvit 31",
+        "currencyExchange": {
+            "exchangeRate": "36.6173",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent 7-11 Sukhumvit 31",
+        "transactionAmount": {
+            "amount": "-1.50",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjIxNjM2ODQ="
+    },
+    {
+        "bookingDate": "2022-05-28",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 1.50 EUR Spent 7-11 Sukhumvit 31",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjIxNjM2ODQ=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-28",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 1.50 EUR Spent 7-11 Sukhumvit 31",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjIxNjM2ODQ=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-28",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 1.07 EUR Spent 7-11majortowerthonglo10",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjE4NzIxNDI=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-28",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 12.23 EUR Spent Alone Together",
+        "transactionAmount": {
+            "amount": "-0.06",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjIxNjAxNTc=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-28",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 0.68 EUR Spent Tops-Thong-Lor",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjE4MTMxNTI=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-28",
+        "creditorName": "Lazy Panda Restaurant",
+        "currencyExchange": {
+            "exchangeRate": "36.6173",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Lazy Panda Restaurant",
+        "transactionAmount": {
+            "amount": "-4.38",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjIwNTk5Mjc="
+    },
+    {
+        "bookingDate": "2022-05-28",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 11.25 EUR Spent Simple",
+        "transactionAmount": {
+            "amount": "-0.06",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjE3MTgzMjg=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-28",
+        "creditorName": "7-11majortowerthonglo10",
+        "currencyExchange": {
+            "exchangeRate": "36.6173",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent 7-11majortowerthonglo10",
+        "transactionAmount": {
+            "amount": "-1.07",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjE4NzIxNDI="
+    },
+    {
+        "bookingDate": "2022-05-28",
+        "creditorName": "Alone Together",
+        "currencyExchange": {
+            "exchangeRate": "36.6173",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Alone Together",
+        "transactionAmount": {
+            "amount": "-12.23",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjIxNjAxNTc="
+    },
+    {
+        "bookingDate": "2022-05-28",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 0.68 EUR Spent Tops-Thong-Lor",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjE4MTMxNTI=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-28",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 12.23 EUR Spent Alone Together",
+        "transactionAmount": {
+            "amount": "-0.06",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjIxNjAxNTc=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-28",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 11.25 EUR Spent Simple",
+        "transactionAmount": {
+            "amount": "-0.06",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjE3MTgzMjg=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-28",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 4.38 EUR Spent Lazy Panda Restaurant",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjIwNTk5Mjc=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-28",
+        "creditorName": "Tops-Thong-Lor",
+        "currencyExchange": {
+            "exchangeRate": "36.6173",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Tops-Thong-Lor",
+        "transactionAmount": {
+            "amount": "-0.68",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjE4MTMxNTI="
+    },
+    {
+        "bookingDate": "2022-05-28",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 4.38 EUR Spent Lazy Panda Restaurant",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjIwNTk5Mjc=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-28",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 1.07 EUR Spent 7-11majortowerthonglo10",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjE4NzIxNDI=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-28",
+        "creditorName": "Simple",
+        "currencyExchange": {
+            "exchangeRate": "36.6173",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Simple",
+        "transactionAmount": {
+            "amount": "-11.25",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjE3MTgzMjg="
+    },
+    {
+        "bookingDate": "2022-05-27",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 28.34 EUR Spent Twenty Two Residence Co.,",
+        "transactionAmount": {
+            "amount": "-0.15",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjEzNzMyNTI=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-27",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 6.88 EUR Spent 7-11 Sukhumvit 22",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjEzNzA4NDA=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-27",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 28.34 EUR Spent Twenty Two Residence Co.,",
+        "transactionAmount": {
+            "amount": "-0.15",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjEzNzMyNTI=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-27",
+        "creditorName": "Twenty Two Residence Co.,",
+        "currencyExchange": {
+            "exchangeRate": "36.6069",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Twenty Two Residence Co.,",
+        "transactionAmount": {
+            "amount": "-28.34",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjEzNzMyNTI="
+    },
+    {
+        "bookingDate": "2022-05-27",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 6.88 EUR Spent 7-11 Sukhumvit 22",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjEzNzA4NDA=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-27",
+        "creditorName": "7-11 Sukhumvit 22",
+        "currencyExchange": {
+            "exchangeRate": "36.6034",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent 7-11 Sukhumvit 22",
+        "transactionAmount": {
+            "amount": "-6.88",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMjEzNzA4NDA="
+    },
+    {
+        "bookingDate": "2022-05-26",
+        "creditorName": "Bartels",
+        "currencyExchange": {
+            "exchangeRate": "36.6377",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Bartels",
+        "transactionAmount": {
+            "amount": "-7.92",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTk5MjQ1Mzc="
+    },
+    {
+        "bookingDate": "2022-05-26",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 7.92 EUR Spent Bartels",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTk5MjQ1Mzc=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-26",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 7.92 EUR Spent Bartels",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTk5MjQ1Mzc=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-25",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 4.34 EUR Spent 7-11 Sukhumvit 22",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTk2NzY1MzU=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-25",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 4.34 EUR Spent 7-11 Sukhumvit 22",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTk2NzY1MzU=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-25",
+        "creditorName": "7-11 Sukhumvit 22",
+        "currencyExchange": {
+            "exchangeRate": "36.656",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent 7-11 Sukhumvit 22",
+        "transactionAmount": {
+            "amount": "-4.34",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTk2NzY1MzU="
+    },
+    {
+        "bookingDate": "2022-05-24",
+        "creditorName": "Twenty Two Residence Co.,",
+        "currencyExchange": {
+            "exchangeRate": "36.5981",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Twenty Two Residence Co.,",
+        "transactionAmount": {
+            "amount": "-76.52",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTg4NjUwNzM="
+    },
+    {
+        "bookingDate": "2022-05-24",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 76.52 EUR Spent Twenty Two Residence Co.,",
+        "transactionAmount": {
+            "amount": "-0.40",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTg4NjUwNzM=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-24",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 76.52 EUR Spent Twenty Two Residence Co.,",
+        "transactionAmount": {
+            "amount": "-0.40",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTg4NjUwNzM=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-23",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 3.54 EUR Spent Emquartier-Food Hall",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTc4MDc4MTk=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-23",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 4.26 EUR Spent Emquartier Co.,Ltd.",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTc4NTExMDM=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-23",
+        "creditorName": "Ghl-Library",
+        "currencyExchange": {
+            "exchangeRate": "36.3307",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Ghl-Library",
+        "transactionAmount": {
+            "amount": "-3.44",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTc1NDY3ODk="
+    },
+    {
+        "bookingDate": "2022-05-23",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 4.97 EUR Spent Villa Market-Sukhumvit 33",
+        "transactionAmount": {
+            "amount": "-0.03",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTgwMjExNzM=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-23",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 3.44 EUR Spent Ghl-Library",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTc1NDY3ODk=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-23",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 4.26 EUR Spent Emquartier Co.,Ltd.",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTc4NTExMDM=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-23",
+        "creditorName": "Emquartier Co.,Ltd.",
+        "currencyExchange": {
+            "exchangeRate": "36.4177",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Emquartier Co.,Ltd.",
+        "transactionAmount": {
+            "amount": "-4.26",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTc4NTExMDM="
+    },
+    {
+        "bookingDate": "2022-05-23",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 3.54 EUR Spent Emquartier-Food Hall",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTc4MDc4MTk=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-23",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 4.97 EUR Spent Villa Market-Sukhumvit 33",
+        "transactionAmount": {
+            "amount": "-0.03",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTgwMjExNzM=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-23",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 3.44 EUR Spent Ghl-Library",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTc1NDY3ODk=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-23",
+        "creditorName": "Villa Market-Sukhumvit 33",
+        "currencyExchange": {
+            "exchangeRate": "36.4415",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Villa Market-Sukhumvit 33",
+        "transactionAmount": {
+            "amount": "-4.97",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTgwMjExNzM="
+    },
+    {
+        "bookingDate": "2022-05-23",
+        "creditorName": "Emquartier-Food Hall",
+        "currencyExchange": {
+            "exchangeRate": "36.3956",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Emquartier-Food Hall",
+        "transactionAmount": {
+            "amount": "-3.54",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTc4MDc4MTk="
+    },
+    {
+        "bookingDate": "2022-05-22",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 4.26 EUR Spent 470 Sct-The Parq",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTY5OTY0NTE=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-22",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 7.01 EUR Spent 028 Sct-Camp Davis",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTY4NDMwNTg=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-22",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 7.01 EUR Spent 028 Sct-Camp Davis",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTY4NDMwNTg=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-22",
+        "creditorName": "028 Sct-Camp Davis",
+        "currencyExchange": {
+            "exchangeRate": "36.3578",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent 028 Sct-Camp Davis",
+        "transactionAmount": {
+            "amount": "-7.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTY4NDMwNTg="
+    },
+    {
+        "bookingDate": "2022-05-22",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 4.26 EUR Spent 470 Sct-The Parq",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTY5OTY0NTE=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-22",
+        "creditorName": "7-11 Sukhumvit 22",
+        "currencyExchange": {
+            "exchangeRate": "36.3578",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent 7-11 Sukhumvit 22",
+        "transactionAmount": {
+            "amount": "-4.62",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTcyMjc1MDU="
+    },
+    {
+        "bookingDate": "2022-05-22",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 4.62 EUR Spent 7-11 Sukhumvit 22",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTcyMjc1MDU=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-22",
+        "creditorName": "470 Sct-The Parq",
+        "currencyExchange": {
+            "exchangeRate": "36.3578",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent 470 Sct-The Parq",
+        "transactionAmount": {
+            "amount": "-4.26",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTY5OTY0NTE="
+    },
+    {
+        "bookingDate": "2022-05-22",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 4.62 EUR Spent 7-11 Sukhumvit 22",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTcyMjc1MDU=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-21",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 23.90 EUR Spent Le Dalat Indochine Co.,Lt",
+        "transactionAmount": {
+            "amount": "-0.12",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTYxNzcxMDQ=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-21",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 27.50 EUR Spent Emporium",
+        "transactionAmount": {
+            "amount": "-0.14",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTYyMzA2MTU=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-21",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 6.96 EUR Spent Villa Market-Sukhumvit 33",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTY1MTE2MzQ=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-21",
+        "creditorName": "Le Dalat Indochine Co.,Lt",
+        "currencyExchange": {
+            "exchangeRate": "36.3578",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Le Dalat Indochine Co.,Lt",
+        "transactionAmount": {
+            "amount": "-23.90",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTYxNzcxMDQ="
+    },
+    {
+        "bookingDate": "2022-05-21",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 6.96 EUR Spent Villa Market-Sukhumvit 33",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTY1MTE2MzQ=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-21",
+        "creditorName": "Emporium",
+        "currencyExchange": {
+            "exchangeRate": "36.3578",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Emporium",
+        "transactionAmount": {
+            "amount": "-27.50",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTYyMzA2MTU="
+    },
+    {
+        "bookingDate": "2022-05-21",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 23.90 EUR Spent Le Dalat Indochine Co.,Lt",
+        "transactionAmount": {
+            "amount": "-0.12",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTYxNzcxMDQ=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-21",
+        "remittanceInformationUnstructured": "TransferWise Fee for 146.09 EUR Withdrawn Sukhumvit 33 (2)",
+        "transactionAmount": {
+            "amount": "-0.76",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTY0Nzg4Nzg=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-21",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 27.50 EUR Spent Emporium",
+        "transactionAmount": {
+            "amount": "-0.14",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTYyMzA2MTU=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-21",
+        "creditorName": "Villa Market-Sukhumvit 33",
+        "currencyExchange": {
+            "exchangeRate": "36.3578",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Villa Market-Sukhumvit 33",
+        "transactionAmount": {
+            "amount": "-6.96",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTY1MTE2MzQ="
+    },
+    {
+        "bookingDate": "2022-05-21",
+        "currencyExchange": {
+            "exchangeRate": "36.3578",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Withdrawn Sukhumvit 33 (2)",
+        "transactionAmount": {
+            "amount": "-146.09",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTY0Nzg4Nzg="
+    },
+    {
+        "bookingDate": "2022-05-20",
+        "creditorName": "Tmg Paragon Fha",
+        "currencyExchange": {
+            "exchangeRate": "36.2885",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Tmg Paragon Fha",
+        "transactionAmount": {
+            "amount": "-8.13",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTUzNjA0Nzc="
+    },
+    {
+        "bookingDate": "2022-05-20",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 8.13 EUR Spent Tmg Paragon Fha",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTUzNjA0Nzc=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-20",
+        "creditorName": "7-11 Sukhumvit 22",
+        "currencyExchange": {
+            "exchangeRate": "36.3011",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent 7-11 Sukhumvit 22",
+        "transactionAmount": {
+            "amount": "-3.72",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTU2ODM2NTU="
+    },
+    {
+        "bookingDate": "2022-05-20",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 3.72 EUR Spent 7-11 Sukhumvit 22",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTU2ODM2NTU=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-20",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 8.13 EUR Spent Tmg Paragon Fha",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTUzNjA0Nzc=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-20",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 3.72 EUR Spent 7-11 Sukhumvit 22",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTU2ODM2NTU=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-19",
+        "creditorName": "Tops-Eathai C.embassy",
+        "currencyExchange": {
+            "exchangeRate": "36.2958",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Tops-Eathai C.embassy",
+        "transactionAmount": {
+            "amount": "-8.53",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTQ0MjA5NTE="
+    },
+    {
+        "bookingDate": "2022-05-19",
+        "creditorName": "7-11 Park Venture",
+        "currencyExchange": {
+            "exchangeRate": "36.3273",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent 7-11 Park Venture",
+        "transactionAmount": {
+            "amount": "-3.25",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTQ2NTMzMzM="
+    },
+    {
+        "bookingDate": "2022-05-19",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 8.53 EUR Spent Tops-Eathai C.embassy",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTQ0MjA5NTE=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-19",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 3.85 EUR Spent Tom N Toms Skv15(asoke)",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTQ2OTgzMDE=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-19",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 3.25 EUR Spent 7-11 Park Venture",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTQ2NTMzMzM=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-19",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 3.25 EUR Spent 7-11 Park Venture",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTQ2NTMzMzM=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-19",
+        "creditorName": "Tom N Toms Skv15(asoke)",
+        "currencyExchange": {
+            "exchangeRate": "36.3393",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Tom N Toms Skv15(asoke)",
+        "transactionAmount": {
+            "amount": "-3.85",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTQ2OTgzMDE="
+    },
+    {
+        "bookingDate": "2022-05-19",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 3.85 EUR Spent Tom N Toms Skv15(asoke)",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTQ2OTgzMDE=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-19",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 8.53 EUR Spent Tops-Eathai C.embassy",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTQ0MjA5NTE=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-18",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 331.28 EUR Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-1.72",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0NjA3MDg1MTA=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-18",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 3.21 EUR Spent Tops-C.food Hall@c.world",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTM5NzY0NTA=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-18",
+        "creditorName": "Niklas Benjamin Muegge",
+        "currencyExchange": {
+            "exchangeRate": "36.4633",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+        "remittanceInformationUnstructured": "Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-331.28",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0NjA3MDg1MTA="
+    },
+    {
+        "bookingDate": "2022-05-18",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 2.42 EUR Spent 7-11 Sukhumvit 22",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTQwMTQzNDY=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-18",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 8.97 EUR Spent Exodia Era",
+        "transactionAmount": {
+            "amount": "-0.05",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTM5NDQzNDU=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-18",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 2.42 EUR Spent 7-11 Sukhumvit 22",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTQwMTQzNDY=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-18",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 8.97 EUR Spent Exodia Era",
+        "transactionAmount": {
+            "amount": "-0.05",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTM5NDQzNDU=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-18",
+        "creditorName": "Exodia Era",
+        "currencyExchange": {
+            "exchangeRate": "36.4473",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Exodia Era",
+        "transactionAmount": {
+            "amount": "-8.97",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTM5NDQzNDU="
+    },
+    {
+        "bookingDate": "2022-05-18",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 3.21 EUR Spent Tops-C.food Hall@c.world",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTM5NzY0NTA=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-18",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 331.28 EUR Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-1.72",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0NjA3MDg1MTA=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-18",
+        "creditorName": "Tops-C.food Hall@c.world",
+        "currencyExchange": {
+            "exchangeRate": "36.3526",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Tops-C.food Hall@c.world",
+        "transactionAmount": {
+            "amount": "-3.21",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTM5NzY0NTA="
+    },
+    {
+        "bookingDate": "2022-05-18",
+        "creditorAccount": {},
+        "creditorName": "Niklas Benjamin Muegge",
+        "currencyExchange": {
+            "exchangeRate": "36.4633",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+        "remittanceInformationUnstructured": "Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-331.28",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0NjA3MDg1MTA="
+    },
+    {
+        "bookingDate": "2022-05-18",
+        "creditorName": "7-11 Sukhumvit 22",
+        "currencyExchange": {
+            "exchangeRate": "36.3336",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent 7-11 Sukhumvit 22",
+        "transactionAmount": {
+            "amount": "-2.42",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTQwMTQzNDY="
+    },
+    {
+        "additionalInformation": "Taschengeld",
+        "bookingDate": "2022-05-17",
+        "debtorAccount": {
+            "bban": "(BYLADEM1001) DE79120300001008619940"
+        },
+        "debtorName": "Nadine Mugge",
+        "entryReference": "Taschengeld",
+        "proprietaryBankTransactionCode": "TRANSFER",
+        "remittanceInformationUnstructured": "Received Nadine Mugge",
+        "transactionAmount": {
+            "amount": "100.00",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpUUkFOU0ZFUjo6NDE3MDU2MDQy"
+    },
+    {
+        "additionalInformation": "Unterhalt",
+        "bookingDate": "2022-05-17",
+        "debtorAccount": {
+            "bban": "(BYLADEM1001) DE79120300001008619940"
+        },
+        "debtorName": "NADINE MUEGGE",
+        "entryReference": "Unterhalt",
+        "proprietaryBankTransactionCode": "TRANSFER",
+        "remittanceInformationUnstructured": "Received NADINE MUEGGE",
+        "transactionAmount": {
+            "amount": "800.00",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpUUkFOU0ZFUjo6NDE3MDU1MTQ3"
+    },
+    {
+        "bookingDate": "2022-05-14",
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Refunded Www.floraqueen.com",
+        "transactionAmount": {
+            "amount": "19.16",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTAyMjM3OTA="
+    },
+    {
+        "bookingDate": "2022-05-05",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 421.79 EUR Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-2.19",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0NDcxOTY5MTM=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-05",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 421.79 EUR Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-2.19",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0NDcxOTY5MTM=.FEE"
+    },
+    {
+        "bookingDate": "2022-05-05",
+        "creditorName": "Niklas Benjamin Muegge",
+        "currencyExchange": {
+            "exchangeRate": "35.9973",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+        "remittanceInformationUnstructured": "Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-421.79",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0NDcxOTY5MTM="
+    },
+    {
+        "bookingDate": "2022-05-05",
+        "creditorAccount": {},
+        "creditorName": "Niklas Benjamin Muegge",
+        "currencyExchange": {
+            "exchangeRate": "35.9973",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+        "remittanceInformationUnstructured": "Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-421.79",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0NDcxOTY5MTM="
+    },
+    {
+        "additionalInformation": "UNTERHALT LT. DUESSELDORFERTABELLE2",
+        "bookingDate": "2022-05-04",
+        "debtorAccount": {
+            "bban": "(BYLADEM1001) DE57120300001007558768"
+        },
+        "debtorName": "Carsten Mugge",
+        "entryReference": "UNTERHALT LT. DUESSELDORFERTABELLE2",
+        "proprietaryBankTransactionCode": "TRANSFER",
+        "remittanceInformationUnstructured": "Received Carsten Mugge",
+        "transactionAmount": {
+            "amount": "407.00",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpUUkFOU0ZFUjo6NDA5MzU4NzY0"
+    },
+    {
+        "bookingDate": "2022-04-24",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 298.45 EUR Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-1.55",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MzUyNjA2MTk=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-24",
+        "creditorName": "Niklas Benjamin Muegge",
+        "currencyExchange": {
+            "exchangeRate": "36.7004",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+        "remittanceInformationUnstructured": "Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-298.45",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MzUyNjA2MTk="
+    },
+    {
+        "bookingDate": "2022-04-24",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 7.36 EUR Spent 037 Sct-The 49 Terrace",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTU2MjE5MDk=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-24",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 298.45 EUR Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-1.55",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MzUyNjA2MTk=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-24",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 7.36 EUR Spent 037 Sct-The 49 Terrace",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTU2MjE5MDk=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-24",
+        "creditorName": "037 Sct-The 49 Terrace",
+        "currencyExchange": {
+            "exchangeRate": "36.7004",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent 037 Sct-The 49 Terrace",
+        "transactionAmount": {
+            "amount": "-7.36",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTU2MjE5MDk="
+    },
+    {
+        "bookingDate": "2022-04-24",
+        "creditorAccount": {},
+        "creditorName": "Niklas Benjamin Muegge",
+        "currencyExchange": {
+            "exchangeRate": "36.7004",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+        "remittanceInformationUnstructured": "Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-298.45",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MzUyNjA2MTk="
+    },
+    {
+        "bookingDate": "2022-04-23",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 3.62 EUR Spent 7-11 Park Venture",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTQ5OTM0NTk=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-23",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 5.45 EUR Spent Farmerly-J Avenue Thonglo",
+        "transactionAmount": {
+            "amount": "-0.03",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTUxOTA5NDU=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-23",
+        "creditorName": "Farmerly-J Avenue Thonglo",
+        "currencyExchange": {
+            "exchangeRate": "36.7004",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Farmerly-J Avenue Thonglo",
+        "transactionAmount": {
+            "amount": "-5.45",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTUxOTA5NDU="
+    },
+    {
+        "bookingDate": "2022-04-23",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 3.62 EUR Spent 7-11 Park Venture",
+        "transactionAmount": {
+            "amount": "-0.02",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTQ5OTM0NTk=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-23",
+        "creditorName": "7-11 Park Venture",
+        "currencyExchange": {
+            "exchangeRate": "36.7004",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent 7-11 Park Venture",
+        "transactionAmount": {
+            "amount": "-3.62",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTQ5OTM0NTk="
+    },
+    {
+        "bookingDate": "2022-04-23",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 5.45 EUR Spent Farmerly-J Avenue Thonglo",
+        "transactionAmount": {
+            "amount": "-0.03",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTUxOTA5NDU=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-21",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 298.45 EUR Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-1.55",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MzIxMDExNTk=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-21",
+        "creditorName": "Niklas Benjamin Muegge",
+        "currencyExchange": {
+            "exchangeRate": "36.6518",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+        "remittanceInformationUnstructured": "Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-298.45",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MzIxMDExNTk="
+    },
+    {
+        "bookingDate": "2022-04-21",
+        "creditorAccount": {},
+        "creditorName": "Niklas Benjamin Muegge",
+        "currencyExchange": {
+            "exchangeRate": "36.6518",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+        "remittanceInformationUnstructured": "Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-298.45",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MzIxMDExNTk="
+    },
+    {
+        "bookingDate": "2022-04-21",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 298.45 EUR Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-1.55",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MzIxMDExNTk=.FEE"
+    },
+    {
+        "additionalInformation": "Taschengeld",
+        "bookingDate": "2022-04-20",
+        "debtorAccount": {
+            "bban": "(BYLADEM1001) DE79120300001008619940"
+        },
+        "debtorName": "Nadine Mugge",
+        "entryReference": "Taschengeld",
+        "proprietaryBankTransactionCode": "TRANSFER",
+        "remittanceInformationUnstructured": "Received Nadine Mugge",
+        "transactionAmount": {
+            "amount": "100.00",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpUUkFOU0ZFUjo6NDAwNDE5Nzc1"
+    },
+    {
+        "bookingDate": "2022-04-19",
+        "creditorName": "Niklas Benjamin Muegge",
+        "currencyExchange": {
+            "exchangeRate": "36.4993",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+        "remittanceInformationUnstructured": "Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-298.45",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MzAxMzk3MzA="
+    },
+    {
+        "bookingDate": "2022-04-19",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 298.45 EUR Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-1.55",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MzAxMzk3MzA=.FEE"
+    },
+    {
+        "additionalInformation": "Taschengeld",
+        "bookingDate": "2022-04-19",
+        "debtorAccount": {
+            "bban": "(BYLADEM1001) DE79120300001008619940"
+        },
+        "debtorName": "NADINE MUEGGE",
+        "entryReference": "Taschengeld",
+        "proprietaryBankTransactionCode": "TRANSFER",
+        "remittanceInformationUnstructured": "Received NADINE MUEGGE",
+        "transactionAmount": {
+            "amount": "800.00",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpUUkFOU0ZFUjo6Mzk5ODg2MjE5"
+    },
+    {
+        "bookingDate": "2022-04-19",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 298.45 EUR Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-1.55",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MzAxMzk3MzA=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-19",
+        "creditorAccount": {},
+        "creditorName": "Niklas Benjamin Muegge",
+        "currencyExchange": {
+            "exchangeRate": "36.4993",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+        "remittanceInformationUnstructured": "Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-298.45",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MzAxMzk3MzA="
+    },
+    {
+        "bookingDate": "2022-04-18",
+        "creditorName": "Flughafen Berlin Brand",
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Flughafen Berlin Brand",
+        "transactionAmount": {
+            "amount": "-6.20",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTExMDA4MzU="
+    },
+    {
+        "bookingDate": "2022-04-13",
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Withdrawn Kreissparkasse Tuebinge",
+        "transactionAmount": {
+            "amount": "-20.00",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODc0OTA2NjI="
+    },
+    {
+        "bookingDate": "2022-04-13",
+        "remittanceInformationUnstructured": "TransferWise Fee for 20.00 EUR Withdrawn Kreissparkasse Tuebinge",
+        "transactionAmount": {
+            "amount": "-0.35",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODc0OTA2NjI=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-12",
+        "creditorName": "Manhattan Hotel",
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Manhattan Hotel",
+        "transactionAmount": {
+            "amount": "-2.00",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODY3Mzg2MTI="
+    },
+    {
+        "bookingDate": "2022-04-10",
+        "creditorName": "Toh Thong Cholrose Bos",
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Toh Thong Cholrose Bos",
+        "transactionAmount": {
+            "amount": "-16.00",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODU4NzU1Mzg="
+    },
+    {
+        "bookingDate": "2022-04-08",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 137.00 EUR Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-0.71",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MTgyNzc1NTQ=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-08",
+        "creditorName": "Niklas Benjamin Muegge",
+        "currencyExchange": {
+            "exchangeRate": "36.4963",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+        "remittanceInformationUnstructured": "Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-137.00",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MTgyNzc1NTQ="
+    },
+    {
+        "bookingDate": "2022-04-08",
+        "creditorAccount": {},
+        "creditorName": "Niklas Benjamin Muegge",
+        "currencyExchange": {
+            "exchangeRate": "36.4963",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+        "remittanceInformationUnstructured": "Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-137.00",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MTgyNzc1NTQ="
+    },
+    {
+        "bookingDate": "2022-04-08",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 137.00 EUR Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-0.71",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MTgyNzc1NTQ=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-04",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 497.41 EUR Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-2.59",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MTM2MTcxMjM=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-04",
+        "creditorName": "Niklas Benjamin Muegge",
+        "currencyExchange": {
+            "exchangeRate": "37.0086",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+        "remittanceInformationUnstructured": "Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-497.41",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MTM2MTcxMjM="
+    },
+    {
+        "bookingDate": "2022-04-04",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 497.41 EUR Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-2.59",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MTM2MTcxMjM=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-04",
+        "creditorAccount": {},
+        "creditorName": "Niklas Benjamin Muegge",
+        "currencyExchange": {
+            "exchangeRate": "37.0086",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+        "remittanceInformationUnstructured": "Moved To your THB account",
+        "transactionAmount": {
+            "amount": "-497.41",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MTM2MTcxMjM="
+    },
+    {
+        "bookingDate": "2022-04-04",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 6.20 EUR Spent Omu Japanese Omu-Ekkamai",
+        "transactionAmount": {
+            "amount": "-0.03",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODEyMDYwMTc=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-04",
+        "creditorName": "Omu Japanese Omu-Ekkamai",
+        "currencyExchange": {
+            "exchangeRate": "37.0053",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Omu Japanese Omu-Ekkamai",
+        "transactionAmount": {
+            "amount": "-6.20",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODEyMDYwMTc="
+    },
+    {
+        "bookingDate": "2022-04-04",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 6.20 EUR Spent Omu Japanese Omu-Ekkamai",
+        "transactionAmount": {
+            "amount": "-0.03",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODEyMDYwMTc=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-03",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 8.56 EUR Spent Simply Q",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODA4MzA5MTU=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-03",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 6.40 EUR Spent 7-11 Bbc Building",
+        "transactionAmount": {
+            "amount": "-0.03",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODA5OTE5MTI=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-03",
+        "creditorName": "Simply Q",
+        "currencyExchange": {
+            "exchangeRate": "37.0307",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Simply Q",
+        "transactionAmount": {
+            "amount": "-8.56",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODA4MzA5MTU="
+    },
+    {
+        "bookingDate": "2022-04-03",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 6.40 EUR Spent 7-11 Bbc Building",
+        "transactionAmount": {
+            "amount": "-0.03",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODA5OTE5MTI=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-03",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 8.56 EUR Spent Simply Q",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODA4MzA5MTU=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-03",
+        "creditorName": "7-11 Bbc Building",
+        "currencyExchange": {
+            "exchangeRate": "37.0307",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent 7-11 Bbc Building",
+        "transactionAmount": {
+            "amount": "-6.40",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODA5OTE5MTI="
+    },
+    {
+        "bookingDate": "2022-04-02",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 64.52 EUR Spent Somerset Ekamai Bangkok",
+        "transactionAmount": {
+            "amount": "-0.34",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODAyOTU5ODU=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-02",
+        "creditorName": "Somerset Ekamai Bangkok",
+        "currencyExchange": {
+            "exchangeRate": "37.0307",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Somerset Ekamai Bangkok",
+        "transactionAmount": {
+            "amount": "-64.52",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODAyOTU5ODU="
+    },
+    {
+        "bookingDate": "2022-04-02",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 64.52 EUR Spent Somerset Ekamai Bangkok",
+        "transactionAmount": {
+            "amount": "-0.34",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODAyOTU5ODU=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-02",
+        "creditorAccount": {
+            "bban": "4360682211"
+        },
+        "creditorName": "simply lifestyle co ltd",
+        "currencyExchange": {
+            "exchangeRate": "37.0307",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "TRANSFER",
+        "remittanceInformationUnstructured": "Sent simply lifestyle co ltd",
+        "transactionAmount": {
+            "amount": "-10.41",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpUUkFOU0ZFUjo6MzkwNDIxMDAw"
+    },
+    {
+        "bookingDate": "2022-04-02",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 10.41 EUR Sent simply lifestyle co ltd",
+        "transactionAmount": {
+            "amount": "-0.89",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpUUkFOU0ZFUjo6MzkwNDIxMDAw.FEE"
+    },
+    {
+        "bookingDate": "2022-04-02",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 10.41 EUR Sent simply lifestyle co ltd",
+        "transactionAmount": {
+            "amount": "-0.89",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpUUkFOU0ZFUjo6MzkwNDIxMDAw.FEE"
+    },
+    {
+        "bookingDate": "2022-04-01",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 7.99 EUR Spent Maxvalu Supermarket-Parkl",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzk1NDI4NTU=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-01",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 7.99 EUR Spent Maxvalu Supermarket-Parkl",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzk1NDI4NTU=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-01",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 13.81 EUR Spent Plantiful",
+        "transactionAmount": {
+            "amount": "-0.07",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzkxOTYwOTI=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-01",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 1.49 EUR Spent 7-11 Ekkamai Soi 2",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzkxNjUxNDA=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-01",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 13.81 EUR Spent Plantiful",
+        "transactionAmount": {
+            "amount": "-0.07",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzkxOTYwOTI=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-01",
+        "creditorName": "Plantiful",
+        "currencyExchange": {
+            "exchangeRate": "36.938",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Plantiful",
+        "transactionAmount": {
+            "amount": "-13.81",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzkxOTYwOTI="
+    },
+    {
+        "bookingDate": "2022-04-01",
+        "creditorName": "7-11 Ekkamai Soi 2",
+        "currencyExchange": {
+            "exchangeRate": "36.9061",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent 7-11 Ekkamai Soi 2",
+        "transactionAmount": {
+            "amount": "-1.49",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzkxNjUxNDA="
+    },
+    {
+        "bookingDate": "2022-04-01",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 1.49 EUR Spent 7-11 Ekkamai Soi 2",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzkxNjUxNDA=.FEE"
+    },
+    {
+        "bookingDate": "2022-04-01",
+        "creditorName": "Maxvalu Supermarket-Parkl",
+        "currencyExchange": {
+            "exchangeRate": "36.93",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Maxvalu Supermarket-Parkl",
+        "transactionAmount": {
+            "amount": "-7.99",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzk1NDI4NTU="
+    },
+    {
+        "bookingDate": "2022-03-30",
+        "currencyExchange": {
+            "exchangeRate": "37.1182",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Withdrawn Emquartier#1 C Tower B Fl",
+        "transactionAmount": {
+            "amount": "-140.63",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzczNzMwMTk="
+    },
+    {
+        "bookingDate": "2022-03-30",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 7.96 EUR Spent Pak",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzc5MDQ0NjE=.FEE"
+    },
+    {
+        "bookingDate": "2022-03-30",
+        "remittanceInformationUnstructured": "TransferWise Fee for 140.63 EUR Withdrawn Emquartier#1 C Tower B Fl",
+        "transactionAmount": {
+            "amount": "-0.73",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzczNzMwMTk=.FEE"
+    },
+    {
+        "bookingDate": "2022-03-30",
+        "creditorName": "Pak",
+        "currencyExchange": {
+            "exchangeRate": "37.0818",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Pak",
+        "transactionAmount": {
+            "amount": "-7.96",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzc5MDQ0NjE="
+    },
+    {
+        "bookingDate": "2022-03-30",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 7.96 EUR Spent Pak",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzc5MDQ0NjE=.FEE"
+    },
+    {
+        "bookingDate": "2022-03-29",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 1.89 EUR Spent 7-11 Sukhumvit 49",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzczMjAyODY=.FEE"
+    },
+    {
+        "bookingDate": "2022-03-29",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 2.77 EUR Spent 7-11 Ekkamai Soi 2",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzc1NjM4NTQ=.FEE"
+    },
+    {
+        "bookingDate": "2022-03-29",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 7.76 EUR Spent Fujiyama 55",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzc1NjA5NjI=.FEE"
+    },
+    {
+        "bookingDate": "2022-03-29",
+        "creditorName": "7-11 Ekkamai Soi 2",
+        "currencyExchange": {
+            "exchangeRate": "37.1906",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent 7-11 Ekkamai Soi 2",
+        "transactionAmount": {
+            "amount": "-2.77",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzc1NjM4NTQ="
+    },
+    {
+        "bookingDate": "2022-03-29",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 2.77 EUR Spent 7-11 Ekkamai Soi 2",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzc1NjM4NTQ=.FEE"
+    },
+    {
+        "bookingDate": "2022-03-29",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 1.89 EUR Spent 7-11 Sukhumvit 49",
+        "transactionAmount": {
+            "amount": "-0.01",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzczMjAyODY=.FEE"
+    },
+    {
+        "bookingDate": "2022-03-29",
+        "creditorName": "Fujiyama 55",
+        "currencyExchange": {
+            "exchangeRate": "37.2375",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Fujiyama 55",
+        "transactionAmount": {
+            "amount": "-7.76",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzc1NjA5NjI="
+    },
+    {
+        "bookingDate": "2022-03-29",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 7.76 EUR Spent Fujiyama 55",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzc1NjA5NjI=.FEE"
+    },
+    {
+        "bookingDate": "2022-03-29",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 17.44 EUR Spent Volve Hotel Bangkok",
+        "transactionAmount": {
+            "amount": "-0.09",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzcyOTUwODM=.FEE"
+    },
+    {
+        "bookingDate": "2022-03-29",
+        "creditorName": "7-11 Sukhumvit 49",
+        "currencyExchange": {
+            "exchangeRate": "37.084",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent 7-11 Sukhumvit 49",
+        "transactionAmount": {
+            "amount": "-1.89",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzczMjAyODY="
+    },
+    {
+        "bookingDate": "2022-03-29",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 17.44 EUR Spent Volve Hotel Bangkok",
+        "transactionAmount": {
+            "amount": "-0.09",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzcyOTUwODM=.FEE"
+    },
+    {
+        "bookingDate": "2022-03-29",
+        "creditorName": "Volve Hotel Bangkok",
+        "currencyExchange": {
+            "exchangeRate": "37.1139",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Volve Hotel Bangkok",
+        "transactionAmount": {
+            "amount": "-17.44",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzcyOTUwODM="
+    },
+    {
+        "additionalInformation": "Taschengeld",
+        "bookingDate": "2022-03-28",
+        "debtorAccount": {
+            "bban": "(BYLADEM1001) DE79120300001008619940"
+        },
+        "debtorName": "NADINE MUEGGE",
+        "entryReference": "Taschengeld",
+        "proprietaryBankTransactionCode": "TRANSFER",
+        "remittanceInformationUnstructured": "Received NADINE MUEGGE",
+        "transactionAmount": {
+            "amount": "1000.00",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpUUkFOU0ZFUjo6Mzg2OTk5MjY4"
+    },
+    {
+        "bookingDate": "2022-03-27",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 7.32 EUR Spent Arabica Bangkok Emquatier",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzYxNDQzNDY=.FEE"
+    },
+    {
+        "bookingDate": "2022-03-27",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 8.40 EUR Spent Aubonpain-Horizon Ekamai",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzYwNzkyNjQ=.FEE"
+    },
+    {
+        "bookingDate": "2022-03-27",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 7.32 EUR Spent Arabica Bangkok Emquatier",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzYxNDQzNDY=.FEE"
+    },
+    {
+        "bookingDate": "2022-03-27",
+        "creditorName": "Arabica Bangkok Emquatier",
+        "currencyExchange": {
+            "exchangeRate": "36.9079",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Arabica Bangkok Emquatier",
+        "transactionAmount": {
+            "amount": "-7.32",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzYxNDQzNDY="
+    },
+    {
+        "bookingDate": "2022-03-27",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 8.40 EUR Spent Aubonpain-Horizon Ekamai",
+        "transactionAmount": {
+            "amount": "-0.04",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzYwNzkyNjQ=.FEE"
+    },
+    {
+        "bookingDate": "2022-03-27",
+        "creditorName": "Aubonpain-Horizon Ekamai",
+        "currencyExchange": {
+            "exchangeRate": "36.9079",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Aubonpain-Horizon Ekamai",
+        "transactionAmount": {
+            "amount": "-8.40",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzYwNzkyNjQ="
+    },
+    {
+        "bookingDate": "2022-03-25",
+        "debtorAccount": {},
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 69.88 EUR Spent Divine Comedie Boutique H",
+        "transactionAmount": {
+            "amount": "-0.36",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzQ3MzMyMTM=.FEE"
+    },
+    {
+        "bookingDate": "2022-03-25",
+        "debtorName": "TransferWise",
+        "remittanceInformationUnstructured": "TransferWise Fee for 69.88 EUR Spent Divine Comedie Boutique H",
+        "transactionAmount": {
+            "amount": "-0.36",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzQ3MzMyMTM=.FEE"
+    },
+    {
+        "bookingDate": "2022-03-25",
+        "creditorName": "Divine Comedie Boutique H",
+        "currencyExchange": {
+            "exchangeRate": "36.9925",
+            "sourceCurrency": "EUR",
+            "targetCurrency": "THB"
+        },
+        "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+        "remittanceInformationUnstructured": "Spent Divine Comedie Boutique H",
+        "transactionAmount": {
+            "amount": "-69.88",
+            "currency": "EUR"
+        },
+        "transactionId": "26004278.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyNzQ3MzMyMTM="
+    }
+]

@@ -1,0 +1,1376 @@
+curl -X GET "https://ob.nordigen.com/api/v2/accounts/747382e9-3d73-4700-aae0-ffd16ab3e077/transactions/" 
+-H  "accept: application/json" 
+-H  "Authorization: Bearer $ACCESS_TOKEN"
+
+{
+    "transactions": {
+        "booked": [
+            {
+                "additionalInformation": "Half of our dinner last night",
+                "bookingDate": "2022-06-18",
+                "debtorAccount": {},
+                "debtorName": "Ige Egal",
+                "entryReference": "Half of our dinner last night",
+                "proprietaryBankTransactionCode": "TRANSFER",
+                "remittanceInformationUnstructured": "Received Ige Egal",
+                "transactionAmount": {
+                    "amount": "420.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpUUkFOU0ZFUjo6NDM3NDM0NTM5"
+            },
+            {
+                "bookingDate": "2022-06-18",
+                "creditorName": "7-11 Thonglo Soi 20",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11 Thonglo Soi 20",
+                "transactionAmount": {
+                    "amount": "-55.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzk5MzIxNDY="
+            },
+            {
+                "bookingDate": "2022-06-18",
+                "creditorName": "7-11 Thonglo Soi 7",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11 Thonglo Soi 7",
+                "transactionAmount": {
+                    "amount": "-25.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzk5MTk4ODQ="
+            },
+            {
+                "additionalInformation": "Half of our dinner last night",
+                "bookingDate": "2022-06-18",
+                "debtorName": "Ige Egal",
+                "entryReference": "Half of our dinner last night",
+                "proprietaryBankTransactionCode": "TRANSFER",
+                "remittanceInformationUnstructured": "Received Ige Egal",
+                "transactionAmount": {
+                    "amount": "420.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpUUkFOU0ZFUjo6NDM3NDM0NTM5"
+            },
+            {
+                "bookingDate": "2022-06-17",
+                "currencyExchange": {
+                    "exchangeRate": "37.1077",
+                    "sourceCurrency": "EUR",
+                    "targetCurrency": "THB"
+                },
+                "debtorName": "Niklas Benjamin Muegge",
+                "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+                "remittanceInformationUnstructured": "Moved From your EUR account",
+                "transactionAmount": {
+                    "amount": "33447.03",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0OTY4Nzg3Nzk="
+            },
+            {
+                "bookingDate": "2022-06-17",
+                "creditorName": "7-11 Sukhumvit 38",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11 Sukhumvit 38",
+                "transactionAmount": {
+                    "amount": "-25.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzg4MjQ4NjA="
+            },
+            {
+                "bookingDate": "2022-06-17",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Withdrawn T One Building Sukhumvi",
+                "transactionAmount": {
+                    "amount": "-25000.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzgzNjYwNzE="
+            },
+            {
+                "bookingDate": "2022-06-17",
+                "currencyExchange": {
+                    "exchangeRate": "37.1077",
+                    "sourceCurrency": "EUR",
+                    "targetCurrency": "THB"
+                },
+                "debtorAccount": {},
+                "debtorName": "Niklas Benjamin Muegge",
+                "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+                "remittanceInformationUnstructured": "Moved From your EUR account",
+                "transactionAmount": {
+                    "amount": "33447.03",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0OTY4Nzg3Nzk="
+            },
+            {
+                "bookingDate": "2022-06-17",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Refunded Foodpanda Thailand",
+                "transactionAmount": {
+                    "amount": "1146.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzgyNTA2NjE="
+            },
+            {
+                "bookingDate": "2022-06-17",
+                "remittanceInformationUnstructured": "TransferWise Fee for 25000.00 THB Withdrawn T One Building Sukhumvi",
+                "transactionAmount": {
+                    "amount": "-531.64",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzgzNjYwNzE=.FEE"
+            },
+            {
+                "bookingDate": "2022-06-16",
+                "creditorName": "United Residence",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent United Residence",
+                "transactionAmount": {
+                    "amount": "-4120.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzc0OTA4ODk="
+            },
+            {
+                "bookingDate": "2022-06-16",
+                "creditorName": "7-11 T-One Sukhumvit 40",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11 T-One Sukhumvit 40",
+                "transactionAmount": {
+                    "amount": "-70.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzc2MzEyNDU="
+            },
+            {
+                "bookingDate": "2022-06-15",
+                "creditorName": "7-11 Ekkamai 22",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11 Ekkamai 22",
+                "transactionAmount": {
+                    "amount": "-144.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzcxODgwMTc="
+            },
+            {
+                "additionalInformation": "Lunch",
+                "bookingDate": "2022-06-14",
+                "debtorAccount": {},
+                "debtorName": "Ige Egal",
+                "entryReference": "Lunch",
+                "proprietaryBankTransactionCode": "TRANSFER",
+                "remittanceInformationUnstructured": "Received Ige Egal",
+                "transactionAmount": {
+                    "amount": "75.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpUUkFOU0ZFUjo6NDM0OTk1MDEw"
+            },
+            {
+                "additionalInformation": "Lunch",
+                "bookingDate": "2022-06-14",
+                "debtorName": "Ige Egal",
+                "entryReference": "Lunch",
+                "proprietaryBankTransactionCode": "TRANSFER",
+                "remittanceInformationUnstructured": "Received Ige Egal",
+                "transactionAmount": {
+                    "amount": "75.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpUUkFOU0ZFUjo6NDM0OTk1MDEw"
+            },
+            {
+                "bookingDate": "2022-06-14",
+                "creditorName": "Foodpanda Thailand",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Foodpanda Thailand",
+                "transactionAmount": {
+                    "amount": "-1146.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzYwNzQyNjc="
+            },
+            {
+                "bookingDate": "2022-06-13",
+                "creditorName": "7-11 Sukhumvit 38",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11 Sukhumvit 38",
+                "transactionAmount": {
+                    "amount": "-37.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzUzOTE2MDQ="
+            },
+            {
+                "bookingDate": "2022-06-13",
+                "creditorName": "7-11 Ekkamai 22",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11 Ekkamai 22",
+                "transactionAmount": {
+                    "amount": "-132.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzU0NDcyMDk="
+            },
+            {
+                "bookingDate": "2022-06-12",
+                "creditorName": "Tokyo Joe",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Tokyo Joe",
+                "transactionAmount": {
+                    "amount": "-1961.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzQ2MDI1OTg="
+            },
+            {
+                "bookingDate": "2022-06-10",
+                "creditorName": "7-11 Sukhumvit 49/4",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11 Sukhumvit 49/4",
+                "transactionAmount": {
+                    "amount": "-45.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzI4ODE4NDI="
+            },
+            {
+                "bookingDate": "2022-06-09",
+                "creditorName": "Wework (thailand) Co.,",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Wework (thailand) Co.,",
+                "transactionAmount": {
+                    "amount": "-5617.50",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzE1NTk0MjA="
+            },
+            {
+                "bookingDate": "2022-06-08",
+                "debtorName": "TransferWise",
+                "remittanceInformationUnstructured": "TransferWise Fee for 2.59 THB Spent Google Cloud Xg2v4t",
+                "transactionAmount": {
+                    "amount": "-0.01",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzA5MDgzMTU=.FEE"
+            },
+            {
+                "bookingDate": "2022-06-08",
+                "creditorName": "Google Cloud Xg2v4t",
+                "currencyExchange": {
+                    "exchangeRate": "0.0269761",
+                    "sourceCurrency": "THB",
+                    "targetCurrency": "EUR"
+                },
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Google Cloud Xg2v4t",
+                "transactionAmount": {
+                    "amount": "-2.59",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzA5MDgzMTU="
+            },
+            {
+                "bookingDate": "2022-06-08",
+                "debtorAccount": {},
+                "debtorName": "TransferWise",
+                "remittanceInformationUnstructured": "TransferWise Fee for 2.59 THB Spent Google Cloud Xg2v4t",
+                "transactionAmount": {
+                    "amount": "-0.01",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzA5MDgzMTU=.FEE"
+            },
+            {
+                "bookingDate": "2022-06-08",
+                "creditorName": "Google Cloud L6cwgx",
+                "currencyExchange": {
+                    "exchangeRate": "0.0269761",
+                    "sourceCurrency": "THB",
+                    "targetCurrency": "EUR"
+                },
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Google Cloud L6cwgx",
+                "transactionAmount": {
+                    "amount": "-1.48",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzA5MDc5OTU="
+            },
+            {
+                "bookingDate": "2022-06-08",
+                "debtorName": "TransferWise",
+                "remittanceInformationUnstructured": "TransferWise Fee for 1.48 THB Spent Google Cloud L6cwgx",
+                "transactionAmount": {
+                    "amount": "-0.01",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzA5MDc5OTU=.FEE"
+            },
+            {
+                "bookingDate": "2022-06-08",
+                "creditorName": "Foodpanda Thailand",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Foodpanda Thailand",
+                "transactionAmount": {
+                    "amount": "-444.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzEwNDQ2OTA="
+            },
+            {
+                "bookingDate": "2022-06-08",
+                "debtorAccount": {},
+                "debtorName": "TransferWise",
+                "remittanceInformationUnstructured": "TransferWise Fee for 1.48 THB Spent Google Cloud L6cwgx",
+                "transactionAmount": {
+                    "amount": "-0.01",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzA5MDc5OTU=.FEE"
+            },
+            {
+                "bookingDate": "2022-06-07",
+                "creditorName": "Foodpanda Thailand",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Foodpanda Thailand",
+                "transactionAmount": {
+                    "amount": "-903.76",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzAwODk0MDk="
+            },
+            {
+                "bookingDate": "2022-06-07",
+                "currencyExchange": {
+                    "exchangeRate": "36.7645",
+                    "sourceCurrency": "EUR",
+                    "targetCurrency": "THB"
+                },
+                "debtorAccount": {},
+                "debtorName": "Niklas Benjamin Muegge",
+                "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+                "remittanceInformationUnstructured": "Moved From your EUR account",
+                "transactionAmount": {
+                    "amount": "15834.10",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0ODUyMTA3NjY="
+            },
+            {
+                "bookingDate": "2022-06-07",
+                "currencyExchange": {
+                    "exchangeRate": "36.7645",
+                    "sourceCurrency": "EUR",
+                    "targetCurrency": "THB"
+                },
+                "debtorName": "Niklas Benjamin Muegge",
+                "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+                "remittanceInformationUnstructured": "Moved From your EUR account",
+                "transactionAmount": {
+                    "amount": "15834.10",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0ODUyMTA3NjY="
+            },
+            {
+                "bookingDate": "2022-06-07",
+                "creditorName": "7-11 Sukhumvit 49/4",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11 Sukhumvit 49/4",
+                "transactionAmount": {
+                    "amount": "-20.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMzAyNzQwNjU="
+            },
+            {
+                "bookingDate": "2022-05-18",
+                "currencyExchange": {
+                    "exchangeRate": "36.4633",
+                    "sourceCurrency": "EUR",
+                    "targetCurrency": "THB"
+                },
+                "debtorName": "Niklas Benjamin Muegge",
+                "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+                "remittanceInformationUnstructured": "Moved From your EUR account",
+                "transactionAmount": {
+                    "amount": "12079.56",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0NjA3MDg1MTA="
+            },
+            {
+                "bookingDate": "2022-05-18",
+                "creditorName": "Wework (thailand) Co.,",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Wework (thailand) Co.,",
+                "transactionAmount": {
+                    "amount": "-5617.50",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTM3MDg0MDc="
+            },
+            {
+                "bookingDate": "2022-05-18",
+                "creditorName": "Sephora (thailand)-Siam C",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Sephora (thailand)-Siam C",
+                "transactionAmount": {
+                    "amount": "-470.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTM5MDg4NTA="
+            },
+            {
+                "bookingDate": "2022-05-18",
+                "creditorName": "Exodia Era",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Exodia Era",
+                "transactionAmount": {
+                    "amount": "-273.16",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTM5NDQzNDU="
+            },
+            {
+                "bookingDate": "2022-05-18",
+                "currencyExchange": {
+                    "exchangeRate": "36.4633",
+                    "sourceCurrency": "EUR",
+                    "targetCurrency": "THB"
+                },
+                "debtorAccount": {},
+                "debtorName": "Niklas Benjamin Muegge",
+                "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+                "remittanceInformationUnstructured": "Moved From your EUR account",
+                "transactionAmount": {
+                    "amount": "12079.56",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0NjA3MDg1MTA="
+            },
+            {
+                "bookingDate": "2022-05-18",
+                "remittanceInformationUnstructured": "TransferWise Fee for 10000.00 THB Withdrawn Millie Molly Sukhumvit 20",
+                "transactionAmount": {
+                    "amount": "-271.22",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTM2MTk4MjQ=.FEE"
+            },
+            {
+                "bookingDate": "2022-05-18",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Withdrawn Millie Molly Sukhumvit 20",
+                "transactionAmount": {
+                    "amount": "-10000.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTM2MTk4MjQ="
+            },
+            {
+                "bookingDate": "2022-05-17",
+                "creditorName": "Arabica Bangkok Emquatier",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Arabica Bangkok Emquatier",
+                "transactionAmount": {
+                    "amount": "-160.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTIzOTg4NDg="
+            },
+            {
+                "bookingDate": "2022-05-17",
+                "creditorName": "Mjt-Central Embassy",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Mjt-Central Embassy",
+                "transactionAmount": {
+                    "amount": "-253.60",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTMwNzQyMTc="
+            },
+            {
+                "bookingDate": "2022-05-16",
+                "creditorName": "Veganerie Concept",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Veganerie Concept",
+                "transactionAmount": {
+                    "amount": "-340.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTE5NjgzMDU="
+            },
+            {
+                "bookingDate": "2022-05-16",
+                "creditorName": "Ghl-Library",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Ghl-Library",
+                "transactionAmount": {
+                    "amount": "-125.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTE2Mjg2MzA="
+            },
+            {
+                "bookingDate": "2022-05-15",
+                "creditorName": "Ghl-Library",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Ghl-Library",
+                "transactionAmount": {
+                    "amount": "-125.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTA5NzMzMTE="
+            },
+            {
+                "bookingDate": "2022-05-14",
+                "creditorName": "337 Sct-Bitec Bangna",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 337 Sct-Bitec Bangna",
+                "transactionAmount": {
+                    "amount": "-170.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTAyOTE2MDE="
+            },
+            {
+                "bookingDate": "2022-05-14",
+                "creditorName": "Zen Box Bitec Bangna",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Zen Box Bitec Bangna",
+                "transactionAmount": {
+                    "amount": "-218.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMTAxOTYzNTM="
+            },
+            {
+                "bookingDate": "2022-05-12",
+                "creditorName": "The Beach Boutique House",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent The Beach Boutique House",
+                "transactionAmount": {
+                    "amount": "-800.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMDg1ODgwNjA="
+            },
+            {
+                "bookingDate": "2022-05-11",
+                "creditorName": "Phuketa Pharmacy",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Phuketa Pharmacy",
+                "transactionAmount": {
+                    "amount": "-650.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMDgxMDYwMTQ="
+            },
+            {
+                "bookingDate": "2022-05-10",
+                "creditorName": "7-11 Rawai Road",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11 Rawai Road",
+                "transactionAmount": {
+                    "amount": "-449.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMDcxMjcwODU="
+            },
+            {
+                "bookingDate": "2022-05-10",
+                "creditorName": "7-11talatmaesomjitkata",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11talatmaesomjitkata",
+                "transactionAmount": {
+                    "amount": "-79.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMDc1NzMwNTg="
+            },
+            {
+                "bookingDate": "2022-05-10",
+                "creditorName": "7-11talatmaesomjitkata",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11talatmaesomjitkata",
+                "transactionAmount": {
+                    "amount": "-199.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMDc2MTEyMjE="
+            },
+            {
+                "bookingDate": "2022-05-09",
+                "creditorName": "Cf 1074-Ozo Kata Phuket",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Cf 1074-Ozo Kata Phuket",
+                "transactionAmount": {
+                    "amount": "-341.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMDY1MTI0Njk="
+            },
+            {
+                "bookingDate": "2022-05-09",
+                "creditorName": "Cf 1074-Ozo Kata Phuket",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Cf 1074-Ozo Kata Phuket",
+                "transactionAmount": {
+                    "amount": "-310.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMDY1MTg0ODk="
+            },
+            {
+                "bookingDate": "2022-05-08",
+                "creditorName": "Angsana Laguna Phuket",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Angsana Laguna Phuket",
+                "transactionAmount": {
+                    "amount": "-247.17",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMDU3ODUyMTE="
+            },
+            {
+                "bookingDate": "2022-05-08",
+                "creditorName": "Cf 1074-Ozo Kata Phuket",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Cf 1074-Ozo Kata Phuket",
+                "transactionAmount": {
+                    "amount": "-870.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMDU3Mzk2NDY="
+            },
+            {
+                "bookingDate": "2022-05-07",
+                "creditorName": "Angsana Laguna Phuket",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Angsana Laguna Phuket",
+                "transactionAmount": {
+                    "amount": "-411.95",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMDUxMjI2ODE="
+            },
+            {
+                "bookingDate": "2022-05-07",
+                "debtorAccount": {},
+                "debtorName": "TransferWise",
+                "remittanceInformationUnstructured": "TransferWise Fee for 2093.23 THB Spent Www.floraqueen.com",
+                "transactionAmount": {
+                    "amount": "-11.51",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMDUxNjk5OTk=.FEE"
+            },
+            {
+                "bookingDate": "2022-05-07",
+                "debtorName": "TransferWise",
+                "remittanceInformationUnstructured": "TransferWise Fee for 2093.23 THB Spent Www.floraqueen.com",
+                "transactionAmount": {
+                    "amount": "-11.51",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMDUxNjk5OTk=.FEE"
+            },
+            {
+                "bookingDate": "2022-05-07",
+                "creditorName": "Www.floraqueen.com",
+                "currencyExchange": {
+                    "exchangeRate": "0.0276129",
+                    "sourceCurrency": "THB",
+                    "targetCurrency": "EUR"
+                },
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Www.floraqueen.com",
+                "transactionAmount": {
+                    "amount": "-2093.23",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMDUxNjk5OTk="
+            },
+            {
+                "bookingDate": "2022-05-07",
+                "creditorName": "7-11talatmaesomjitkata",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11talatmaesomjitkata",
+                "transactionAmount": {
+                    "amount": "-118.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMDU0NTc5MzE="
+            },
+            {
+                "bookingDate": "2022-05-05",
+                "creditorName": "Thaiticketmajor Co.,Ltd",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Thaiticketmajor Co.,Ltd",
+                "transactionAmount": {
+                    "amount": "-2716.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMDM2NDAyNjQ="
+            },
+            {
+                "bookingDate": "2022-05-05",
+                "currencyExchange": {
+                    "exchangeRate": "35.9973",
+                    "sourceCurrency": "EUR",
+                    "targetCurrency": "THB"
+                },
+                "debtorAccount": {},
+                "debtorName": "Niklas Benjamin Muegge",
+                "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+                "remittanceInformationUnstructured": "Moved From your EUR account",
+                "transactionAmount": {
+                    "amount": "15183.30",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0NDcxOTY5MTM="
+            },
+            {
+                "bookingDate": "2022-05-05",
+                "currencyExchange": {
+                    "exchangeRate": "35.9973",
+                    "sourceCurrency": "EUR",
+                    "targetCurrency": "THB"
+                },
+                "debtorName": "Niklas Benjamin Muegge",
+                "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+                "remittanceInformationUnstructured": "Moved From your EUR account",
+                "transactionAmount": {
+                    "amount": "15183.30",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0NDcxOTY5MTM="
+            },
+            {
+                "bookingDate": "2022-05-04",
+                "creditorName": "7-11 Karon Plaza",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11 Karon Plaza",
+                "transactionAmount": {
+                    "amount": "-72.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMDI4ODczODQ="
+            },
+            {
+                "bookingDate": "2022-05-03",
+                "creditorName": "7-11 Pttor Karon Phuket",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11 Pttor Karon Phuket",
+                "transactionAmount": {
+                    "amount": "-75.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMDIyNDMwMzM="
+            },
+            {
+                "bookingDate": "2022-05-01",
+                "creditorName": "7-11 Pttor Karon Phuket",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11 Pttor Karon Phuket",
+                "transactionAmount": {
+                    "amount": "-98.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMDA4OTE4NjE="
+            },
+            {
+                "bookingDate": "2022-05-01",
+                "creditorName": "Amz_sd3897 Phuket Airport",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Amz_sd3897 Phuket Airport",
+                "transactionAmount": {
+                    "amount": "-55.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMDA2NTkwNDY="
+            },
+            {
+                "bookingDate": "2022-05-01",
+                "creditorName": "Thai Lion Air-Donmuang",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Thai Lion Air-Donmuang",
+                "transactionAmount": {
+                    "amount": "-850.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMDA1NzA1MDI="
+            },
+            {
+                "bookingDate": "2022-04-30",
+                "creditorName": "Madamebeauty Co.,Ltd.",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Madamebeauty Co.,Ltd.",
+                "transactionAmount": {
+                    "amount": "-5035.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTk4MTkwNDg="
+            },
+            {
+                "bookingDate": "2022-04-30",
+                "creditorName": "7-11 Samitivej Hospital",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11 Samitivej Hospital",
+                "transactionAmount": {
+                    "amount": "-161.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozMDAxOTM1Nzk="
+            },
+            {
+                "bookingDate": "2022-04-28",
+                "creditorName": "7-11 Sukhumvit 57",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11 Sukhumvit 57",
+                "transactionAmount": {
+                    "amount": "-59.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTg4MjUxMDA="
+            },
+            {
+                "bookingDate": "2022-04-28",
+                "creditorName": "Cf-1021 The Maze",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Cf-1021 The Maze",
+                "transactionAmount": {
+                    "amount": "-260.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTgyODY3MjI="
+            },
+            {
+                "bookingDate": "2022-04-27",
+                "creditorName": "7-11 Sukhumvit 33",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11 Sukhumvit 33",
+                "transactionAmount": {
+                    "amount": "-12.50",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTc5NjYzMjY="
+            },
+            {
+                "bookingDate": "2022-04-25",
+                "creditorName": "2 C 2 P*Thailionair",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 2 C 2 P*Thailionair",
+                "transactionAmount": {
+                    "amount": "-3300.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTYyNzYwMTc="
+            },
+            {
+                "bookingDate": "2022-04-25",
+                "creditorName": "Wework (thailand) Co.,",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Wework (thailand) Co.,",
+                "transactionAmount": {
+                    "amount": "-936.25",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTYyODI4MDU="
+            },
+            {
+                "bookingDate": "2022-04-24",
+                "currencyExchange": {
+                    "exchangeRate": "36.7004",
+                    "sourceCurrency": "EUR",
+                    "targetCurrency": "THB"
+                },
+                "debtorAccount": {},
+                "debtorName": "Niklas Benjamin Muegge",
+                "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+                "remittanceInformationUnstructured": "Moved From your EUR account",
+                "transactionAmount": {
+                    "amount": "10953.23",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MzUyNjA2MTk="
+            },
+            {
+                "bookingDate": "2022-04-24",
+                "currencyExchange": {
+                    "exchangeRate": "36.7004",
+                    "sourceCurrency": "EUR",
+                    "targetCurrency": "THB"
+                },
+                "debtorName": "Niklas Benjamin Muegge",
+                "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+                "remittanceInformationUnstructured": "Moved From your EUR account",
+                "transactionAmount": {
+                    "amount": "10953.23",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MzUyNjA2MTk="
+            },
+            {
+                "bookingDate": "2022-04-24",
+                "creditorName": "Pak",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Pak",
+                "transactionAmount": {
+                    "amount": "-185.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTU4NjU3Njk="
+            },
+            {
+                "bookingDate": "2022-04-24",
+                "creditorName": "Kay S Boutique Break-Sukh",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Kay S Boutique Break-Sukh",
+                "transactionAmount": {
+                    "amount": "-483.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTU2OTIxNjU="
+            },
+            {
+                "bookingDate": "2022-04-24",
+                "creditorName": "037 Sct-The 49 Terrace",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 037 Sct-The 49 Terrace",
+                "transactionAmount": {
+                    "amount": "-145.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTU2OTUyMjg="
+            },
+            {
+                "bookingDate": "2022-04-23",
+                "creditorName": "Emquartier-Food Hall",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Emquartier-Food Hall",
+                "transactionAmount": {
+                    "amount": "-155.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTQ5MzQ0NzM="
+            },
+            {
+                "bookingDate": "2022-04-23",
+                "creditorName": "7-11 Park Venture",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11 Park Venture",
+                "transactionAmount": {
+                    "amount": "-22.06",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTQ5OTM0NTk="
+            },
+            {
+                "bookingDate": "2022-04-23",
+                "creditorName": "Tmg Emq Tk",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Tmg Emq Tk",
+                "transactionAmount": {
+                    "amount": "-189.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTQ5NTEyNzc="
+            },
+            {
+                "bookingDate": "2022-04-22",
+                "creditorAccount": {
+                    "bban": "6991633860"
+                },
+                "creditorName": "Mr. Prasit Piputpanlert",
+                "proprietaryBankTransactionCode": "TRANSFER",
+                "remittanceInformationUnstructured": "Sent Mr. Prasit Piputpanlert",
+                "transactionAmount": {
+                    "amount": "-350.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpUUkFOU0ZFUjo6NDAyMDUwNzk3"
+            },
+            {
+                "bookingDate": "2022-04-22",
+                "creditorName": "7-11 Samitivej Hospital",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11 Samitivej Hospital",
+                "transactionAmount": {
+                    "amount": "-114.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTQyNTAyODE="
+            },
+            {
+                "bookingDate": "2022-04-22",
+                "creditorName": "Peace Oriental Teahouse",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Peace Oriental Teahouse",
+                "transactionAmount": {
+                    "amount": "-145.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTQxOTgxMjU="
+            },
+            {
+                "bookingDate": "2022-04-22",
+                "creditorName": "Peace Oriental Teahouse",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Peace Oriental Teahouse",
+                "transactionAmount": {
+                    "amount": "-240.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTQxNjc1MzM="
+            },
+            {
+                "bookingDate": "2022-04-22",
+                "debtorAccount": {},
+                "debtorName": "TransferWise",
+                "remittanceInformationUnstructured": "TransferWise Fee for 350.00 THB Sent Mr. Prasit Piputpanlert",
+                "transactionAmount": {
+                    "amount": "-30.89",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpUUkFOU0ZFUjo6NDAyMDUwNzk3.FEE"
+            },
+            {
+                "bookingDate": "2022-04-22",
+                "debtorName": "TransferWise",
+                "remittanceInformationUnstructured": "TransferWise Fee for 350.00 THB Sent Mr. Prasit Piputpanlert",
+                "transactionAmount": {
+                    "amount": "-30.89",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpUUkFOU0ZFUjo6NDAyMDUwNzk3.FEE"
+            },
+            {
+                "bookingDate": "2022-04-21",
+                "currencyExchange": {
+                    "exchangeRate": "36.6518",
+                    "sourceCurrency": "EUR",
+                    "targetCurrency": "THB"
+                },
+                "debtorAccount": {},
+                "debtorName": "Niklas Benjamin Muegge",
+                "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+                "remittanceInformationUnstructured": "Moved From your EUR account",
+                "transactionAmount": {
+                    "amount": "10938.73",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MzIxMDExNTk="
+            },
+            {
+                "bookingDate": "2022-04-21",
+                "creditorName": "Aspira Tropical Residence",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Aspira Tropical Residence",
+                "transactionAmount": {
+                    "amount": "-10630.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTM0MTMyNTY="
+            },
+            {
+                "bookingDate": "2022-04-21",
+                "currencyExchange": {
+                    "exchangeRate": "36.6518",
+                    "sourceCurrency": "EUR",
+                    "targetCurrency": "THB"
+                },
+                "debtorName": "Niklas Benjamin Muegge",
+                "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+                "remittanceInformationUnstructured": "Moved From your EUR account",
+                "transactionAmount": {
+                    "amount": "10938.73",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MzIxMDExNTk="
+            },
+            {
+                "bookingDate": "2022-04-21",
+                "creditorName": "Cholos-The Commons",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Cholos-The Commons",
+                "transactionAmount": {
+                    "amount": "-306.02",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTM1NTQyODc="
+            },
+            {
+                "bookingDate": "2022-04-19",
+                "remittanceInformationUnstructured": "TransferWise Fee for 10000.00 THB Withdrawn The President Building",
+                "transactionAmount": {
+                    "amount": "-417.08",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTIxNzQ0MDA=.FEE"
+            },
+            {
+                "bookingDate": "2022-04-19",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Withdrawn The President Building",
+                "transactionAmount": {
+                    "amount": "-10000.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTIxNzQ0MDA="
+            },
+            {
+                "bookingDate": "2022-04-19",
+                "currencyExchange": {
+                    "exchangeRate": "36.4993",
+                    "sourceCurrency": "EUR",
+                    "targetCurrency": "THB"
+                },
+                "debtorAccount": {},
+                "debtorName": "Niklas Benjamin Muegge",
+                "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+                "remittanceInformationUnstructured": "Moved From your EUR account",
+                "transactionAmount": {
+                    "amount": "10893.22",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MzAxMzk3MzA="
+            },
+            {
+                "bookingDate": "2022-04-19",
+                "currencyExchange": {
+                    "exchangeRate": "36.4993",
+                    "sourceCurrency": "EUR",
+                    "targetCurrency": "THB"
+                },
+                "debtorName": "Niklas Benjamin Muegge",
+                "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+                "remittanceInformationUnstructured": "Moved From your EUR account",
+                "transactionAmount": {
+                    "amount": "10893.22",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MzAxMzk3MzA="
+            },
+            {
+                "bookingDate": "2022-04-19",
+                "creditorName": "Lotus's 3140 Expressn Non",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Lotus's 3140 Expressn Non",
+                "transactionAmount": {
+                    "amount": "-38.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTIyMTg5MDk="
+            },
+            {
+                "bookingDate": "2022-04-19",
+                "creditorName": "Cf 1071-Avani Sukhumvit",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Cf 1071-Avani Sukhumvit",
+                "transactionAmount": {
+                    "amount": "-185.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyOTIyMDcwOTY="
+            },
+            {
+                "bookingDate": "2022-04-09",
+                "creditorName": "7-11 The Bliss Patong",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11 The Bliss Patong",
+                "transactionAmount": {
+                    "amount": "-351.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODQ4Nzg0ODg="
+            },
+            {
+                "bookingDate": "2022-04-09",
+                "creditorName": "Amz_dd1133 Jomthong",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Amz_dd1133 Jomthong",
+                "transactionAmount": {
+                    "amount": "-115.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODQ3NTMxNjI="
+            },
+            {
+                "bookingDate": "2022-04-08",
+                "currencyExchange": {
+                    "exchangeRate": "36.4963",
+                    "sourceCurrency": "EUR",
+                    "targetCurrency": "THB"
+                },
+                "debtorAccount": {},
+                "debtorName": "Niklas Benjamin Muegge",
+                "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+                "remittanceInformationUnstructured": "Moved From your EUR account",
+                "transactionAmount": {
+                    "amount": "5000.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MTgyNzc1NTQ="
+            },
+            {
+                "bookingDate": "2022-04-08",
+                "currencyExchange": {
+                    "exchangeRate": "36.4963",
+                    "sourceCurrency": "EUR",
+                    "targetCurrency": "THB"
+                },
+                "debtorName": "Niklas Benjamin Muegge",
+                "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+                "remittanceInformationUnstructured": "Moved From your EUR account",
+                "transactionAmount": {
+                    "amount": "5000.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MTgyNzc1NTQ="
+            },
+            {
+                "bookingDate": "2022-04-08",
+                "creditorName": "Amz_dd2498 The Ck.grand S",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Amz_dd2498 The Ck.grand S",
+                "transactionAmount": {
+                    "amount": "-55.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODM5MDEyNDk="
+            },
+            {
+                "bookingDate": "2022-04-08",
+                "creditorName": "Thaiairw Web Ticket",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent Thaiairw Web Ticket",
+                "transactionAmount": {
+                    "amount": "-10475.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODQxNjI4Mzg="
+            },
+            {
+                "bookingDate": "2022-04-05",
+                "creditorName": "7-11 Wirathongyok",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11 Wirathongyok",
+                "transactionAmount": {
+                    "amount": "-60.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODIyOTMxMTM="
+            },
+            {
+                "bookingDate": "2022-04-04",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Withdrawn Aeon Park Land Eakamai",
+                "transactionAmount": {
+                    "amount": "-10000.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODEyMDc3OTE="
+            },
+            {
+                "bookingDate": "2022-04-04",
+                "creditorName": "7-11 Bbc Building",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION",
+                "remittanceInformationUnstructured": "Spent 7-11 Bbc Building",
+                "transactionAmount": {
+                    "amount": "-263.00",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODE1NTY3OTU="
+            },
+            {
+                "bookingDate": "2022-04-04",
+                "currencyExchange": {
+                    "exchangeRate": "37.0086",
+                    "sourceCurrency": "EUR",
+                    "targetCurrency": "THB"
+                },
+                "debtorAccount": {},
+                "debtorName": "Niklas Benjamin Muegge",
+                "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+                "remittanceInformationUnstructured": "Moved From your EUR account",
+                "transactionAmount": {
+                    "amount": "18408.45",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MTM2MTcxMjM="
+            },
+            {
+                "bookingDate": "2022-04-04",
+                "currencyExchange": {
+                    "exchangeRate": "37.0086",
+                    "sourceCurrency": "EUR",
+                    "targetCurrency": "THB"
+                },
+                "debtorName": "Niklas Benjamin Muegge",
+                "proprietaryBankTransactionCode": "BALANCE_TRANSACTION",
+                "remittanceInformationUnstructured": "Moved From your EUR account",
+                "transactionAmount": {
+                    "amount": "18408.45",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpCQUxBTkNFX1RSQU5TQUNUSU9OOjo0MTM2MTcxMjM="
+            },
+            {
+                "bookingDate": "2022-04-04",
+                "remittanceInformationUnstructured": "TransferWise Fee for 10000.00 THB Withdrawn Aeon Park Land Eakamai",
+                "transactionAmount": {
+                    "amount": "-269.35",
+                    "currency": "THB"
+                },
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjoyODEyMDc3OTE=.FEE"
+            }
+        ],
+        "pending": [
+            {
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozNDExOTE4NjI=",
+                "bookingDate": "2022-06-20",
+                "transactionAmount": {
+                    "amount": "-50.00",
+                    "currency": "THB"
+                },
+                "creditorName": "7-11 T-One Sukhumvit 40",
+                "remittanceInformationUnstructured": "Spent 7-11 T-One Sukhumvit 40",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION"
+            },
+            {
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozNDEwNTQ3Mzg=",
+                "bookingDate": "2022-06-20",
+                "transactionAmount": {
+                    "amount": "-155.00",
+                    "currency": "THB"
+                },
+                "creditorName": "429 Sct-T-One",
+                "remittanceInformationUnstructured": "Spent 429 Sct-T-One",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION"
+            },
+            {
+                "transactionId": "28262580.TU9ORVRBUllfQUNUSVZJVFk6OjI1NjUxNTQzOjpDQVJEX1RSQU5TQUNUSU9OOjozNDA5NDI1ODk=",
+                "bookingDate": "2022-06-20",
+                "transactionAmount": {
+                    "amount": "-6849.50",
+                    "currency": "THB"
+                },
+                "creditorName": "United Residence",
+                "remittanceInformationUnstructured": "Pre-authorised United Residence",
+                "proprietaryBankTransactionCode": "CARD_TRANSACTION"
+            }
+        ]
+    }
+}

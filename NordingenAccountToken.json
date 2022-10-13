@@ -1,0 +1,13 @@
+{
+    "id": "2af8378d-655b-4bf9-8f5c-883922f371c0",
+    "created": "2022-06-20T11:11:15.723752Z",
+    "max_historical_days": 730,
+    "access_valid_for_days": 90,
+    "access_scope": [
+        "balances",
+        "details",
+        "transactions"
+    ],
+    "accepted": null,
+    "institution_id": "WISE_TRWIGB22"
+}
